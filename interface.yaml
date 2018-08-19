@@ -1,0 +1,12 @@
+name: trustee
+summary: Interface for requesting the creation of trustee domains
+maintainer: Gabriel Adrian Samfira <gsamfira@cloudbasesolutions.com>
+ignore:
+  - 'unit_tests'
+  - 'Makefile'
+  - '.testr.conf'
+  - 'test-requirements.txt'
+  - 'tox.ini'
+  - '.gitignore'
+  - '.gitreview'
+  - '.unit-state.db'
